@@ -1,0 +1,26 @@
+{
+  "sidebar": {
+    "home": "خانه",
+    "calendar": "تقویم",
+    "analysis": "آنالیز",
+    "atp": "ATP",
+    "athlete_management": "مدیریت ورزشکاران",
+    "workout_library": "مخزن تمرین‌ها",
+    "strategy": "استراتژی",
+    "settings": "تنظیمات",
+    "recent_activities": "آخرین فعالیت‌ها"
+  },
+  "dashboard": {
+    "my_athletes": "ورزشکاران من",
+    "future_competitions": "مسابقات آینده",
+    "championship_asia": "قهرمانی آسیا",
+    "championship_women_special": "قهرمانی ویژه بانوان",
+    "championship_women": "قهرمانی بانوان",
+    "championship_spain": "قهرمانی اسپانیا",
+    "championship_women_spain": "قهرمانی ویژه بانوان اسپانیا",
+    "championship_europe": "قهرمانی اروپا",
+    "weeks_until": "هفته تا",
+    "today": "امروز",
+    "planned_fitness": "برنامه‌ریزی شده برای تناسب اندام (CTL)"
+  }
+}
