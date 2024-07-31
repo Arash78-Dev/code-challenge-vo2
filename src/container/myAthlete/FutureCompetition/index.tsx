@@ -26,7 +26,7 @@ const FutureCompetition: FC = () => {
         ) : (
           events.data.map((value) => {
             return (
-              <div key={value.atpId} className="flex flex-col col-span-1 ">
+              <div key={value.id} className="flex flex-col col-span-1 ">
                 <Competition data={value} />
                 <Divider />
               </div>

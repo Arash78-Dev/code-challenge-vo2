@@ -60,7 +60,7 @@ const DataCharts: FC = () => {
 
             <YAxis
               dataKey="ctl"
-              domain={["dataMin", "dataMax"]}
+              domain={["dataMin", "dataMax + 10"]}
               tick={{ display: "none" }} // Hide the X axis
               display="none"
             />
